@@ -7,7 +7,7 @@ flag = 1
 name = ""
 
 palm.configure(api_key= "AIzaSyC09-f0hyofybVT86uuypO_HTXgXL5__kw")
-os.environ["REPLICATE_API_TOKEN"] = "r8_GhclVE3ERhGjNSUKc7n28b7vW5d7GxJ07ccVC"
+os.environ["REPLICATE_API_TOKEN"] = "r8_IQ8F1CNhXYre3Dn2mHMJhnaKOzg9yJa3Fjeqk"
 
 model = {"model": "models/chat-bison-001"}
 app = Flask(__name__)
