@@ -7,7 +7,7 @@ flag = 1
 name = ""
 
 palm.configure(api_key= "AIzaSyC09-f0hyofybVT86uuypO_HTXgXL5__kw")
-os.environ["REPLICATE_API_TOKEN"] = "r8_IQ8F1CNhXYre3Dn2mHMJhnaKOzg9yJa3Fjeqk"
+os.environ["REPLICATE_API_TOKEN"] = "r8_6UIarL4vfWmFSDWhSf9bzC5AHIfdWdP1EK0C7"
 
 model = {"model": "models/chat-bison-001"}
 app = Flask(__name__)
@@ -63,4 +63,3 @@ def end():
     
 if __name__ == "__main__":
     app.run()
-    
