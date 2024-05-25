@@ -2,3 +2,5 @@ flask
 gunicorn 
 replicate
 google-generativeai
+sqlite3
+Markup
